@@ -13,3 +13,5 @@ AWS_ACCESS_KEY: "AKIAQP3JMW2JYKNIJG43"
 AWS_SECRET_KEY: "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"
 AWS_BUCKET: "my-flixter-bucket-please" 
 AWS_REGION: "us-east-1"
+SECRET_KEY: 'sk_test_pGlygn6lbawQCMZwgA4rhGnn00XkndEmho'
+PUBLISHABLE_KEY: 'pk_test_kmXE1pqFNyBpIWvTJBjlw1Zb00Fsw5c0Wn'

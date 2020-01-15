@@ -77,3 +77,5 @@ gem 'carrierwave-aws', '~> 1.0.2'
 gem 'figaro'
 gem 'stripe'
 #Credit Card Processing 
+gem 'ranked-model'
+#Ordering Lessons

@@ -79,3 +79,4 @@ gem 'stripe'
 #Credit Card Processing 
 gem 'ranked-model'
 #Ordering Lessons
+gem 'jquery-ui-rails'

@@ -52,7 +52,9 @@ ActiveRecord::Schema.define(version: 2020_01_22_173945) do
     t.integer "course_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "row_order"
     t.index ["course_id"], name: "index_sections_on_course_id"
+    t.index ["row_order"], name: "index_sections_on_row_order"
   end
 
   create_table "users", force: :cascade do |t|
